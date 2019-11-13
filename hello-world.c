@@ -1,7 +1,7 @@
 include<stdio.h>
 int main()
  {
-    printf("labitchj");
+    printf("labitch");
     return 0;
  }
 
